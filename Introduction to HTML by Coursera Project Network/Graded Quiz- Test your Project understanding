@@ -1,0 +1,21 @@
+1. Which of the following statements regarding Notepad++ is TRUE?
+Ans: Notepad++ is a free text editor which can be used for many types of programming languages.
+
+2. Select the true statement in regard to HTML.
+Ans: Every web page you see is comprised of HTML code.
+	 HTML stands for HyperText Markup Language.
+	 HTML's purpose is to control how information is presented by a web browser.
+
+
+3. In the following HTML code, what does the "p" represent?
+<p>Learning HTML can be challenging, but fun!</p>
+Ans: Element name
+
+4. Which of the following HTML heading elements would the browser display in bold type?
+Ans: Select all
+
+5. To create a list of items that requires the user to follow one step after another, HTML best practice would be to create an unordered list.
+Ans: FALSE
+
+6. Special HTML tags are commonly used to format a web page by positioning images and adding fancy backgrounds and colors.
+Ans: FALSE
